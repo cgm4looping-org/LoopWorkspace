@@ -220,6 +220,7 @@ jobs:
           lnl_icon \
           watch_title \
           profiles \
+          negative_insulin \
           basal_lock 
         
           # the final customization listed above CANNOT have a continuation character
